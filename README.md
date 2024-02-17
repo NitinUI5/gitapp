@@ -1,5 +1,6 @@
 ## Application Details
 |               |
+|changes 1      |
 | ------------- |
 |**Generation Date and Time**<br>Sat Feb 17 2024 14:34:23 GMT+0000 (Coordinated Universal Time)|
 |**App Generator**<br>@sap/generator-fiori-freestyle|
